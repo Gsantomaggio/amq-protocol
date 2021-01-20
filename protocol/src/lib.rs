@@ -7,8 +7,6 @@
 //! amq-protocol is a library aiming at providing tools to help
 //! implementing software using AMQP
 
-/// Reexport of amq_protocol_tcp
-pub use amq_protocol_tcp as tcp;
 /// Reexport of amq_protocol_types
 pub use amq_protocol_types as types;
 /// Reexport of amq_protocol_uri
